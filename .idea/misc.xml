@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shahs/AndroidStudioProjects/Dictionary/app/src/main/res/drawable/spliter.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/shahs/AndroidStudioProjects/Dictionary/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/shahs/AndroidStudioProjects/Dictionary/app/src/main/res/layout/def_litems.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/shahs/AndroidStudioProjects/Dictionary/app/src/main/res/layout/meaning_items.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/shahs/AndroidStudioProjects/Dictionary/app/src/main/res/layout/phonetics_items.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/shahs/AndroidStudioProjects/Dictionary/app/src/main/res/layout/spliter.xml" value="0.115625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
